@@ -1,4 +1,4 @@
-![logo](YouTube Banner - Modern DevOps Solutions.png)
+![logo](https://github.com/abhi2330/abhi2330/blob/main/YouTube%20Banner%20-%20Modern%20DevOps%20Solutions.png)
 <h1 align="center">Hi 👋, I'm Shivam Pal</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
