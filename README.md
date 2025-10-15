@@ -1,3 +1,4 @@
+![logo](YouTube Banner - Modern DevOps Solutions.png)
 <h1 align="center">Hi 👋, I'm Shivam Pal</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
