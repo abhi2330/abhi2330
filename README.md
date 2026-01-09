@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Pal</h1>
-<h3 align="center">A Passionate Cloud & Automation Engineer | DevOps Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A Passionate Cloud & Automation Engineer | DevOps Engineer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2330&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2330" /> </p>
@@ -8,20 +8,21 @@
 
 I'm a dedicated **DevOps Engineer** focused on building reliable, scalable, and efficient infrastructure. I thrive on automating complex workflows and bridging the gap between development and operations.
 
-### 🌱 Currently Exploring & Mastering
+🌱 Currently Exploring & Mastering
 
-I'm actively working to deepen my expertise in the following areas:
-
-* **Version Control & Collaboration:** **Git** and **GitHub**
-* **Containerization:** **Docker** and crafting optimized **Dockerfiles**
-* **CI/CD Pipelines:** **Jenkins** for robust Continuous Integration and Delivery
-* **Infrastructure as Code (IaC):** **Terraform** for provisioning cloud resources
-* **Monitoring & Observability:** **Grafana** and **Prometheus** for system health and alerting
+- Cloud Platforms: AWS (EC2, IAM, S3, EKS), Azure (Basics)
+- Containerization: Docker, Dockerfiles, Image Optimization
+- Container Orchestration: Kubernetes (Minikube, EKS)
+- CI/CD & GitOps: Jenkins, GitHub Actions, ArgoCD
+- Infrastructure as Code: Terraform (Modules, Locals, Conditionals)
+- Monitoring & Observability: Prometheus, Grafana
+- DevSecOps: Trivy, SonarQube (Basics)
+- Scripting & OS: Linux, Bash, Python (Basics)
 
 ### 📧 Get In Touch
 
 * **Email:** **shivampal33219@gmail.com**
-
+* **Phnoe:** **9559962098**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-pal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
